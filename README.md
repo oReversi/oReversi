@@ -23,22 +23,20 @@
 - Aprofundar no Git/GitHub para versionamento
 
 ### ⚙️ Estatísticas do GitHub
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=oReversi&layout=compact&theme=dracula"
-        alt="Linguagens mais usadas"
-      />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com/?user=oReversi&theme=dark&hide_border=false"
-        alt="Sequência de contribuições"
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=oReversi&theme=dark&hide_border=false"
+    alt="Sequência de contribuições"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=oReversi&layout=compact&theme=dracula"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
 <p align="center">
   <img
