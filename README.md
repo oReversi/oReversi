@@ -24,9 +24,10 @@
 
 ### ⚙️ Estatísticas do GitHub
 
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=oReversi&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=oReversi&theme=dark&hide_border=false&timezone=America%2FSao_Paulo"
     alt="Sequência de contribuições"
   />
 </p>
@@ -37,6 +38,7 @@
     alt="Linguagens mais usadas"
   />
 </p>
+
 
 <p align="center">
   <img
