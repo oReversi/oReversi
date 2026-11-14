@@ -1,6 +1,6 @@
 ## Olá, meu nome é Reversi! 👋
 
-> Aprendendo a programar um exercício de cada vez. 🇧🇷
+> Aprendendo a programar um exercício de cada vez.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
