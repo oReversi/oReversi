@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/1204764081517633616">
-    <img src="https://img.shields.io/badge/Discord-yurirev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="assets/contato-1.svg" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/iuri-teles-santos-023049262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Iuri_Teles_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/contato-2.svg" alt="LinkedIn" />
   </a>
 </p>
 
